@@ -42,6 +42,8 @@
 
 > **Note (Windows SmartScreen):** Because this installer is not yet digitally signed with a paid certificate, Windows may display a *"Windows protected your PC"* warning on first run. Click **More info** → **Run anyway** to proceed safely.
 
+> **Note (Other DNS / Filtering Apps):** To avoid DNS conflicts (Port 53), please disable or uninstall any other local DNS filtering apps (such as CleanBrowsing, NextDNS, or AdGuard) before running Haram Blocker.
+
 **Requirements:** Windows 10 or Windows 11 (64-bit).
 
 ### Key Features
@@ -90,6 +92,8 @@ Most blockers fail because they can be turned off in seconds during a moment of 
 3. شغّل ملف التثبيت بصلاحيات المسؤول (**Administrator**) واتبع خطوات المعالج.
 
 > **ملاحظة (`Windows SmartScreen`):** نظرًا لأن ملف التثبيت غير موقّع حاليًا بشهادة رقمية مدفوعة، قد يظهر تحذير ويندوز (*Windows protected your PC*) عند التشغيل لأول مرة. اضغط على **More info** (معلومات إضافية) ثم **Run anyway** (التشغيل على أي حال) للمتابعة بأمان.
+
+> **ملاحظة (تعارض برامج الفلترة الأخرى):** لتجنب تعارض إعدادات الـ DNS، يُفضّل إيقاف أو إزالة أي برنامج فلترة DNS محلي آخر (مثل CleanBrowsing أو NextDNS أو AdGuard) قبل تشغيل Haram Blocker.
 
 **المتطلبات:** ويندوز 10 أو ويندوز 11 (نواة 64-bit).
 
