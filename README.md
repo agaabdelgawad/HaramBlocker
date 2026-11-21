@@ -16,6 +16,18 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/dashboard.png" width="800" alt="Dashboard (Dark Mode)" />
+  <br /><br />
+  <img src="assets/locks.png" width="800" alt="Protection Locks" />
+  <br /><br />
+  <img src="assets/dashboard-ar.png" width="800" alt="Dashboard (Arabic RTL - Light Mode)" />
+</p>
+
+---
+
 <a id="english"></a>
 
 ## Overview
