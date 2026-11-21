@@ -32,7 +32,7 @@
 
 ## Overview
 
-**Haram Blocker** is a lightweight, free, system-wide Windows desktop application specifically built to **block adult, pornographic, and Haram content** across all browsers and applications. It runs as a protected background Windows Service with a modern Windows 11 Fluent UI and strong **anti-impulse and anti-tampering locks** designed to prevent quick bypassing or hasty disabling.
+**Haram Blocker** is a lightweight, free, system-wide Windows desktop application specifically built to **block adult, pornographic, and Haram content** across all browsers and applications. It runs as a protected background Windows Service with a modern Windows 11 Fluent UI and strong **anti-relapse cooldowns and anti-tampering locks** designed to prevent quick bypassing or hasty disabling.
 
 ### Download & Installation
 
@@ -81,7 +81,7 @@ Most blockers fail because they can be turned off in seconds during a moment of 
 
 ## نظرة عامة
 
-**Haram Blocker** هو برنامج خفيف ومجاني لنظام ويندوز مخصص **لحجب المواقع الإباحية والمحتوى الحرام والضار** على مستوى النظام بالكامل عبر جميع المتصفحات والتطبيقات. يعمل البرنامج عبر خدمة خلفية محمية (`Windows Service`) مع واجهة حديثة بتصميم ويندوز 11، وآليات قوية **لمنع التلاعب أو الإيقاف المتسرع في لحظات الضعف**.
+**Haram Blocker** هو برنامج خفيف ومجاني لنظام ويندوز مخصص **لحجب المواقع الإباحية والمحتوى الحرام والضار** على مستوى النظام بالكامل عبر جميع المتصفحات والتطبيقات. يعمل البرنامج عبر خدمة خلفية محمية (`Windows Service`) مع واجهة حديثة بتصميم ويندوز 11، و**مهل انتظار للحماية من الانتكاسة** وأقفال قوية **لمنع التلاعب أو الإيقاف المتسرع**.
 
 ### التحميل والتثبيت
 
